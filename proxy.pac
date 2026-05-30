@@ -5,5 +5,5 @@ function FindProxyForURL(url, host) {
     }
 
     // 2. Всё остальное в интернете (включая .com, .net, qcomment) — строго через прокси
-    return "PROXY 148.253.210.145:439";
+    return "PROXY 148.253.210.145:443";
 }
